@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is E440-8D74
-
- Directory of C:\Users\f4in\OneDrive\Desktop\Project
-
-03/13/2023  02:44 PM    <DIR>          .
-03/13/2023  02:40 PM    <DIR>          ..
-03/13/2023  02:44 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  91,636,064,256 bytes free
+change 1
